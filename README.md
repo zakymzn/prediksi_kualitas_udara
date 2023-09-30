@@ -1,9 +1,11 @@
-Repositori ini digunakan untuk mengerjakan dan menyimpan hasil capstone project di program Studi Independen Bersertifikat (SIB) di Infinite Learning.
-
 # Prediksi Kualitas Udara di Indonesia dengan Algoritma Support Vector Machine
+
 oleh Ma'mur Zaky Nurrokhman
 
+Repositori ini digunakan untuk mengerjakan dan menyimpan hasil capstone project di program Studi Independen Bersertifikat (SIB) di Infinite Learning.
+
 ## Latar Belakang
+
 Akhir-akhir ini, polusi udara yang cukup parah di Jakarta sedang ramai dibicarakan oleh media. Polusi udara tersebut membuat langit Jakarta menjadi gelap dan berkabut tebal serta mengakibatkan banyak orang mengalami gangguan kesehatan terutama pada pernapasan. Akibatnya, pemerintah memberlakukan berbagai kebijakan-kebijakan untuk mengatasi masalah tersebut seperti pemberlakuan kebijakan *Work From Home (WFH)*, membuat hujan buatan, menyemprot air dari atap gedung-gedung tinggi, dan masih banyak kebijakan lainnya. Dalam memberlakukan kebijakan-kebijakan tersebut, tentunya pemerintah tidak serta merta membuatnya begitu saja. Mereka pastinya memiliki data tentang polusi udara di Jakarta yang disebut sebagai **Indeks Standar Pencemar Udara (ISPU)** yang merupakan standar perhitungan kondisi kualitas udara yang diambil dari sebuah alat pengukur kualitas udara yaitu **Stasiun Pemantau Kualitas Udara (SPKU)**.
 
 Namun, harga SPKU terbilang cukup mahal hingga mencapai milyaran rupiah untuk satu unit SPKU. Selain itu, tidak semua daerah di Indonesia memiliki SPKU untuk memantau kualitas udara. Hal ini salah satunya disebabkan oleh mahalnya harga SPKU tadi. Maka dari itu, SPKU hanya terdapat pada kota-kota besar dan area industri saja. Padahal, setiap daerah di Indonesia seharusnya memiliki hak yang sama untuk mendapatkan kualitas udara yang bersih dan sehat. Walaupun data ISPU telah dikirimkan ke publik, namun intensitas pengirimannya tidak banyak. Data ISPU hanya dikirimkan/disampaikan paling sedikit setiap jam 09.00 dan jam 15.00. Hal tersebut mengakibatkan update data ISPU tidak cukup terkini sehingga dapat membuat masyarakat sekitar lambat dalam membuat tindakan pencegahan apabila terjadi suatu kondisi yang kritis.
