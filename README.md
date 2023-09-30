@@ -4,6 +4,14 @@ oleh Ma'mur Zaky Nurrokhman
 
 Repositori ini digunakan untuk mengerjakan dan menyimpan hasil capstone project di program Studi Independen Bersertifikat (SIB) di Infinite Learning.
 
+## Daftar Isi
+
+- [Prediksi Kualitas Udara di Indonesia dengan Algoritma Support Vector Machine](#prediksi-kualitas-udara-di-indonesia-dengan-algoritma-support-vector-machine)
+  - [Daftar Isi](#daftar-isi)
+  - [Latar Belakang](#latar-belakang)
+  - [Tujuan](#tujuan)
+  - [Langkah-langkah Pengerjaan Capstone Project](#langkah-langkah-pengerjaan-capstone-project)
+
 ## Latar Belakang
 
 Akhir-akhir ini, polusi udara yang cukup parah di Jakarta sedang ramai dibicarakan oleh media. Polusi udara tersebut membuat langit Jakarta menjadi gelap dan berkabut tebal serta mengakibatkan banyak orang mengalami gangguan kesehatan terutama pada pernapasan. Akibatnya, pemerintah memberlakukan berbagai kebijakan-kebijakan untuk mengatasi masalah tersebut seperti pemberlakuan kebijakan *Work From Home (WFH)*, membuat hujan buatan, menyemprot air dari atap gedung-gedung tinggi, dan masih banyak kebijakan lainnya. Dalam memberlakukan kebijakan-kebijakan tersebut, tentunya pemerintah tidak serta merta membuatnya begitu saja. Mereka pastinya memiliki data tentang polusi udara di Jakarta yang disebut sebagai **Indeks Standar Pencemar Udara (ISPU)** yang merupakan standar perhitungan kondisi kualitas udara yang diambil dari sebuah alat pengukur kualitas udara yaitu **Stasiun Pemantau Kualitas Udara (SPKU)**.
